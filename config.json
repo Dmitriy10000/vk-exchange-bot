@@ -1,0 +1,27 @@
+{
+    "token": "",
+    "DB": {
+        "user": "postgres",
+        "host": "localhost",
+        "name": "VKBot",
+        "pass": "",
+        "port": "5432"
+    },
+    "market_config": {
+        "sell_is_enabled": true,
+        "buy_is_enabled": true,
+        "sell_price": 300,
+        "buy_price": 550,
+        "coin_amount": 1000,
+        "seller": ""
+    },
+    "merchant_config": {
+        "merchant_id": "",
+        "merchant_key": ""
+    },
+    "qiwi": {
+        "token": "",
+        "secret_key": "",
+        "public_key": ""
+    }
+}
